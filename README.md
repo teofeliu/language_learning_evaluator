@@ -4,6 +4,10 @@
 
 The Language Learning Evaluator is a FastAPI-based application that assesses language proficiency from audio inputs. It provides a comprehensive evaluation of accent, vocabulary, grammar, conjugation, cultural knowledge, and expression.
 
+*If you could transport yourself to one moment in history, which moment would it be and why? What would this moment feel like? Paint the scene. Be thorough with your answer.*
+
+Answering the question above with a voice recording will return a score and evaluation on your Accent, Grammar, Conjugation, Culture, and Expression.
+
 ## Key Technologies
 
 - **FastAPI**: High-performance web framework for building APIs with Python 3.6+
